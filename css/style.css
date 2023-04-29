@@ -1,0 +1,74 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+
+
+.container{
+    border: 5px solid yellowgreen;
+     overflow: hidden;
+}
+
+.blog{
+	height: 200px;
+	background-color: green;
+	width: 50%;
+	float: left;*/
+
+}
+
+.cintact{
+	height: 200px;
+	background-color: blue;
+	width: 50%;
+	float: right; */
+}
+
+
+
+
+
+.ms{
+	overflow: hidden;
+
+}
+.sharika{
+	height:125px ;
+	background-color: red;
+	width: 33.3%;
+	float: left;
+}
+.meghla{
+	height: 125px;
+	background-color: green;
+	width: 33.3%;
+	float: left;
+}
+.shahnewaz{
+	height: 125px;
+	background-color: greenyellow;
+	width: 33.3%;
+    float: left;
+}
+
+
+
+.footer{
+	/*clear: both;*/
+	height: 100px;
+	background-color: black;
+}
+
+
+.map iframe{
+	width: 80%;
+	height: 500px;
+	border: 0;
+}
+
+
+
+.video iframe {
+	width: 560px;
+	height:315px;
+}
